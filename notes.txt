@@ -1,0 +1,46 @@
+python2 vs python3
+------------------
+Year of Release	
+    Python 2 was released in the year 2000.	
+
+    Python 3 was released in the year 2008.
+
+“Print” 
+    Keyword	In Python 2,print is considered to be a statement and not a function.	In Python 3, print is considered to be a function and not a statement.
+
+
+Storage of Strings	
+In Python 2, strings are stored as ASCII by default.	In Python 3, strings are stored as UNICODE by default.
+
+
+Division of Integers	
+On the division of two integers, we get an integral value in Python 2. For instance, 7/2 yields 3 in Python 2.	On the division of two integers, we get a floating-point value in Python 3. For instance, 7/2 yields 3.5 in Python 3.
+
+
+Exceptions	In Python 2, exceptions are enclosed in notations.	In Python 3, exceptions are enclosed in parentheses.
+
+
+Variable leakage	The values of global variables do change in Python 2 if they are used inside a for-loop.	The value of variables never changes in Python 3.
+
+
+Iteration	In Python 2, the xrange() function has been defined for iterations.	In Python 3, the new Range() function was introduced to perform iterations.
+
+
+Ease of Syntax	Python 2 has more complicated syntax than Python 3.	Python 3 has an easier syntax compared to Python 2.
+
+
+Libraries	A lot of libraries of Python 2 are not forward compatible.	A lot of libraries are created in Python 3 to be strictly used with Python 3.
+
+
+Usage in today’s times	Python 2 is no longer in use since 2020.	Python 3 is more popular than Python 2 and is still in use in today’s times.
+
+
+Backward compatibility	Python 2 codes can be ported to Python 3 with a lot of effort.	Python 3 is not backward compatible with Python 2.
+
+
+Application	Python 2 was mostly used to become a DevOps Engineer. It is no longer in use after 2020.	Python 3 is used in a lot of fields like Software Engineering, Data Science, etc.
+
+
+-------------------
+
+https://github.com/aneagoie/ztm-python-cheat-sheet
